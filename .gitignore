@@ -1,0 +1,15 @@
+.vscode
+setup.py
+gcp_duppla.egg-info
+build
+dist
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/*/*/*/__pycache__
+*/*/*/*/*/__pycache__
+*/*/*/*/*/*/__pycache__
+*/*/*/*/*/*/*/__pycache__
+*/*/*/*/*/*/*/*/__pycache__
+*/*/*/*/*/*/*/*/*/__pycache__
+*/*/*/*/*/*/*/*/*/*/__pycache
