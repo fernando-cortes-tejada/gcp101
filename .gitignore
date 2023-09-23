@@ -1,6 +1,6 @@
 .vscode
 setup.py
-gcp_duppla.egg-info
+gcp101.egg-info
 build
 dist
 */__pycache__
